@@ -1,4 +1,4 @@
-# DeganToken Smart Contract
+# DeganToken
 
 This Solidity program is a simple implementation of an ERC20 token named DeganToken, demonstrating the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to understand the creation and management of tokens on the Ethereum blockchain.
 
