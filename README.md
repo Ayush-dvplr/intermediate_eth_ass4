@@ -12,7 +12,11 @@ Key functionalities implemented in this smart contract include:
 - Token minting: The contract owner can mint new tokens to a specified address.
 - Token burning: Users can burn their tokens, reducing the total supply.
 - Token transfer: Standard ERC20 token transfer and transferFrom functions with additional recipient validation.
+- Creating an encoded string to share among players to redeem tokens: This function will generate a unique encoded string based on an input address and an amount, which can be used to redeem tokens.
+- Storing and checking addresses for a store: This function will store addresses and provide a method to check if a specific address is a store.
+- Allowing players to burn or share tokens: This function will let players burn or share tokens with other addresses.
 
+  
 ## Getting Started
 
 ### Executing Program
